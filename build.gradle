@@ -70,9 +70,9 @@ sourceSets {
 
 dependencies {
     compile 'com.moandjiezana.toml:toml4j:0.7.2'
-    compile 'org.springframework.boot:spring-boot-starter-web:2.3.9.RELEASE'
-    compile 'org.springframework.boot:spring-boot-starter-aop:2.3.9.RELEASE'
-    compile 'org.springframework.boot:spring-boot-starter-security:2.3.9.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-web:2.3.11.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-aop:2.3.11.RELEASE'
+    compile 'org.springframework.boot:spring-boot-starter-security:2.3.11.RELEASE'
     compile 'org.springframework:spring-aspects:5.2.12.RELEASE'
     compile 'org.springframework:spring-aop:5.2.12.RELEASE'
     compile 'org.asynchttpclient:async-http-client:2.12.2'
